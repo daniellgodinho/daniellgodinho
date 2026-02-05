@@ -40,10 +40,9 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 **Additional Knowledge**
 - Intermediate understanding of cybersecurity principles and practices
 
-## GitHub Statistics
+---
 
-<details>
-<summary>View Statistics</summary>
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
@@ -57,24 +56,17 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellgodinho&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-</details>
+---
 
-## Interactive Demo
+## Interactive Visualizations
 
-<details>
-<summary>Play Snake Game</summary>
-
-<!-- Snake Game Animation -->
+### Snake Game
 ![snake gif](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
 
-</details>
-
-<details>
-<summary>Activity Graph</summary>
-
+### Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/daniellgodinho)
 
-</details>
+---
 
 ## Featured Projects
 
