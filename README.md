@@ -43,10 +43,7 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 ---
 
 ## GitHub Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&theme=tokyonight)
-
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&langs_count=7&theme=tokyonight"/> </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellgodinho&theme=tokyonight" alt="GitHub Streak"/>
