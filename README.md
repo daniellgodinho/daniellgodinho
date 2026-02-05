@@ -60,7 +60,7 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 <div align="center">
   
 ### Snake Game
-![Snake animation](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
 
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=tokyo-night&hide_border=true&area=true)
