@@ -82,9 +82,8 @@ Currently working on various projects. Repository highlights coming soon.
 
 ## Contact
 
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: [Daniel Godinho](seu-link-linkedin)
+- **Discord**: @daniellgodinho
+- **Email**: dgodinho@engineer.com
 
 ---
 
