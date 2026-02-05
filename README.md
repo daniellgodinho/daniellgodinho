@@ -43,10 +43,14 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 ---
 
 ## GitHub Statistics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&langs_count=7&theme=tokyonight"/> </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellgodinho&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=daniellgodinho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -56,10 +60,10 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 <div align="center">
   
 ### Snake Game
-![snake gif](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
 
 ### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=tokyo-night&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/daniellgodinho)
 
 </div>
 
