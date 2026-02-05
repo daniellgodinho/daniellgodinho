@@ -46,15 +46,15 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 <summary>View Statistics</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellgodinho&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 </details>
@@ -65,14 +65,14 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 <summary>Play Snake Game</summary>
 
 <!-- Snake Game Animation -->
-![snake gif](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
 <details>
 <summary>Activity Graph</summary>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/seu-usuario)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/daniellgodinho)
 
 </details>
 
@@ -88,5 +88,5 @@ Currently working on various projects. Repository highlights coming soon.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=daniellgodinho&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
