@@ -44,27 +44,28 @@ I'm a full-stack developer specializing in JavaScript ecosystem and web applicat
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellgodinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellgodinho&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellgodinho&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellgodinho&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
 ## Interactive Visualizations
 
+<div align="center">
+  
 ### Snake Game
-![snake gif](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daniellgodinho/daniellgodinho/blob/output/github-contribution-grid-snake.svg)
 
 ### Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/daniellgodinho)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellgodinho&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
@@ -79,6 +80,6 @@ Currently working on various projects. Repository highlights coming soon.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniellgodinho&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniellgodinho&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
