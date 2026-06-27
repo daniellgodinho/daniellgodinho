@@ -10,7 +10,7 @@ Currently working on various projects. Repository highlights coming soon.
 
 ## Contact
 
-- **Discord**: @daniellgodinho
+- **Discord**: @dnalvss
 - **Email**: dgodinho@engineer.com
 
 <div align="center">
